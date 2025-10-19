@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="git_pic.jpg" alt="Liyao Huang" width="200" height="200" align="left">
+<img src="git_pic.jpg" alt="Liyao Huang" width="200" height="200" align="right">
 
 ## About Me
 
@@ -46,3 +46,7 @@ My research interests include:
 
 ## Coding language
 - Python, Matlab, R, SAS, SQL
+
+## Contact Me
+- **Email:** [liyao.huang@duke.edu]
+- **LinkedIn:** [www.linkedin.com/in/liyao-huang]
