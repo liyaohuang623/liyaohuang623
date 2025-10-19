@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="git_pic.jpg" alt="Liyao Huang" width="200" height="200" align="left">
+
 ## About Me
 
 I am a first-year Master's student in Statistical Science at Duke University. I earned my Bachelor of Science in Mathematics and Applied Mathematics from Shanghai University.
