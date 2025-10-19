@@ -38,12 +38,8 @@ My research interests include:
 `Group-based Trajectory Modeling (SAS)` `GLM` `Longitudinal Data Analysis`  
 [📄 PUBLICATION](https://www.jeom.org/cn/article/doi/10.11836/JEOM23305)
 
----
-
 ## Coding language
 - Python, Matlab, R, SAS, SQL
----
-
 ## Contact Me
 - **Email:** [liyao.huang@duke.edu](mailto:liyao.huang@duke.edu)
 - **LinkedIn:** [Liyao Huang](https://www.linkedin.com/in/liyao-huang)
