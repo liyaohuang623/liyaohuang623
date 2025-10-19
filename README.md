@@ -7,9 +7,7 @@
 
 ## About Me
 
-<div align="left">
-<img src="git_pic.jpg" alt="Liyao Huang" width="180">
-</div>
+<img src="git_pic.jpg" alt="Liyao Huang" width="180" align="right">
 
 I am a first-year Master's student in Statistical Science at Duke University. I earned my Bachelor of Science in Mathematics and Applied Mathematics from Shanghai University.
 
